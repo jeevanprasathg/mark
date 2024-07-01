@@ -1,0 +1,137 @@
+Mark down 
+
+* it is open source 
+* created by john gruber
+* it contains plain text that is formatted in plain text.,and is readable using specific syntax beforeconverted to HTML
+* simple and east to learn
+* helps users to 
+
+two things
+1.,writing text content with special syntax
+2.,parser to convert this content 
+
+
+what is warkdownfile extension?
+.md
+
+no office extension
+create plain text and save as .md
+
+some of them popular vendors  uses html 
+github uses .md or .mdown
+
+Advantages
+easy to learn and write the plain text
+mostly supports vs code
+supports audio and video
+it shares to all different  devices.
+
+y markdown?
+used for every things :creates websites,document,notes,books etc...
+it is portable :
+it is platform independent: supports all os.
+it is future proof:
+itis every where:
+
+How to open markdown.
+ide-integrated development environment.
+dillinger--online editor for markdown.
+hugo- we create website and host it free..
+
+HTML elements
+formatting tags -bold ,italic ,underline...
+block level ele-para,div
+inline -span,anchor...
+semantic tags-
+
+headings
+
+in html headings tag <h1>
+in markdown  headings# (space) want to type .
+simple text style
+for bold	**to create text in bold **
+for italic	 *to create text initalic *
+for bold +italic	 --
+all bold and italic 	***create text in bold and italic ***
+to strike 
+
+
+paragraph
+type somr things but in multiple lines.
+
+Block quotes
+add ( > ) in front of the paragraph.
+
+block quotes with mmultiple line
+>(space) type something
+>
+> (space)type some thing
+
+for nested block quotes
+>>(space) type paragragh
+
+quoting code
+text with backticks--used to create a text in box.
+
+list
+unorderd list -text with - (or)*.
+ordered list - 1,2,3...
+
+nested lists
+example-
+minimum of five spaces
+example 
+1. xxxx
+(tab)  yyy
+
+
+task list
+- (space)[x]-to create task list
+
+
+horizontal rule 
+*** (or)---(or) - - -(or) ***********
+
+link
+[that link](redirect path)
+
+reference link
+[link name][link name]
+
+images
+to display image ! and wrapping alt text in []. wrap the link for the image in ()
+example
+ ![image] (link of the image)
+
+tables
+to add a table ,use three or more hypen(----) and 
+use pipe(|) to separate each column. example |syntax |
+
+
+alignment
+for left side :---
+for center :-----:
+for right side ----:
+
+definition list
+   
+first term
+:any words
+
+Emoji
+:smili name:
+
+hightlight
+==to hightlight ==
+
+subscript & superscript
+
+subscript --ex: h20 (tilde symbol)h (tilde symbol)2(tilde symbol) 0
+super script- carrot symbol
+
+
+
+
+
+
+ 
